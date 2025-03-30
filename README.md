@@ -1,57 +1,46 @@
-<h1 align="center">Hi, I'm Mohammed Sulaiman I! 👋</h1>
-<h3 align="center">Cybersecurity & Cloud Security Enthusiast | Penetration Tester | AWS Security</h3>
+![logo](https://github.com/Syu607/Syu607/blob/main/Syu607.png)
 
-🌐 **Portfolio**: [msi678](https://linkedin.com/in/msi678)  
-📫 **Contact**: mohammedsulaiman678@gmail.com  
-💻 **GitHub**: [Syu607](https://github.com/Syu607)
+<h1 align="center">Hi 👋, I'm Mohammed Sulaiman I</h1>
+<h3 align="center">Cloud Security Analyst | Penetration Tester | Full-Stack Developer</h3>
 
----
+<img align="right" alt="coding" width="350px" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
 
-### 🛠 **Technical Skills**
-- **Languages:** Python, JavaScript, Java, C, SQL, PHP, HTML/CSS, XML, EJS
-- **Frameworks & Libraries:** Django, Express.js, React, Chart.js, Bootstrap, jQuery
-- **Databases:** MongoDB, MySQL, SQLite, Oracle, Microsoft SQL Server
-- **Cloud & DevOps:** AWS (EC2, VPC, IAM, CloudTrail, GuardDuty, CloudWatch), Git
-- **Security Tools:** Wazuh, Metasploit, Wireshark, Nmap, NetCat
-- **Data Science:** Machine Learning, SVD Algorithm, Data Analytics, Visualization
-- **IoT & Embedded Systems:** Embedded C, Sensor Integration, GPS Tracking
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Syu607&label=Profile%20views&color=0e75b6&style=flat" alt="Syu607" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Syu607" alt="Syu607" /></a> </p>
 
-### 🔥 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syu607&show_icons=true&theme=tokyonight)
+- 🔐 **Cybersecurity & Cloud Security:** AWS IAM, GuardDuty, CloudTrail, Wazuh, Metasploit, Wireshark, Penetration Testing
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syu607&layout=compact&theme=tokyonight)
+- 💻 **Full-Stack Development:** Python, JavaScript, React, Node.js, Express.js, Django, Tailwind CSS, Bootstrap, MongoDB, MySQL
 
----
+- 🛠 **Networking & Security:** Firewalls, Intrusion Detection, Threat Analysis, Vulnerability Assessment
 
-### 🚀 **Projects**
-#### [Sanchara - Travel Recommendation Platform](https://github.com/Syu607/sanchara)
-- 🚀 Built a **scalable backend** using Node.js & Express, optimizing API response time by **40%**
-- 📊 Enhanced MongoDB query performance by **65%** for **10,000+ locations**
-- 🔍 Implemented **12 RESTful API endpoints** with **99.9% uptime**
+- 📫 Reach me at **mohammedsulaiman678@gmail.com**
 
-#### [Django Event Management System](https://github.com/Syu607/event-management)
-- 🔐 Developed **role-based access control** with **99.9% security compliance**
-- 🚀 Reduced database query response time by **45%**
-- 📑 Automated workflows for **200+ event approvals** & **500+ certificates**
+- ⚡ Fun fact **I hack ethically and build securely!**
 
-#### [Ambulance Rescue & Accident Monitoring System](https://github.com/Syu607/ambulance-iot)
-- 🛠 Built an **IoT-based accident detection system** with **5 sensor types**
-- ⏳ **Reduced emergency response time by 90%**
-- 🗺️ **Optimized GPS tracking** to cut ambulance arrival time by **40%**
-
----
-
-### 📜 **Certifications & Achievements**
-- 🏅 **Research Presentation (ICCMIT 2024):** Ambulance Rescue System & Accident Monitoring
-- 🔹 **CISCO:** Introduction to Cyber Security
-- 🔹 **Infosys Springboard:** Networking, Python, Internet Security, IoT, HTML5
-
----
-
-### 📌 **Let's Connect!**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/msi678"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mohammedsulaiman678@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/msi678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Sulaiman" height="30" width="40" /></a>
+<a href="mailto:mohammedsulaiman678@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syu607&show_icons=true&locale=en&layout=compact" alt="Syu607" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Syu607&show_icons=true&locale=en" alt="Syu607" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syu607&" alt="Syu607" /></p>
