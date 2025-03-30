@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Syu607/Syu607/blob/main/Syu607.png" alt="logo" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/61232626?v=4&size=64" alt="logo" width="200" height="200">
   <h1>Hi 👋, I'm Mohammed Sulaiman I</h1>
   <h3>Cloud Security Analyst | Penetration Tester | Full-Stack Developer</h3>
 </div>
@@ -42,7 +42,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syu607&show_icons=true&locale=en&layout=compact" alt="Syu607" /></p>
