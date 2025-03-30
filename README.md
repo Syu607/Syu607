@@ -1,7 +1,8 @@
-![logo](https://github.com/Syu607/Syu607/blob/main/Syu607.png)
-
-<h1 align="center">Hi 👋, I'm Mohammed Sulaiman I</h1>
-<h3 align="center">Cloud Security Analyst | Penetration Tester | Full-Stack Developer</h3>
+<div align="center">
+  <img src="https://github.com/Syu607/Syu607/blob/main/Syu607.png" alt="logo" width="200" height="200">
+  <h1>Hi 👋, I'm Mohammed Sulaiman I</h1>
+  <h3>Cloud Security Analyst | Penetration Tester | Full-Stack Developer</h3>
+</div>
 
 <img align="right" alt="coding" width="350px" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
 
@@ -9,15 +10,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Syu607" alt="Syu607" /></a> </p>
 
-- 🔐 **Cybersecurity & Cloud Security:** AWS IAM, GuardDuty, CloudTrail, Wazuh, Metasploit, Wireshark, Penetration Testing
+## 🔐 Cybersecurity & Cloud Security
+- AWS IAM, GuardDuty, CloudTrail, Wazuh, Metasploit, Wireshark, Penetration Testing
 
-- 💻 **Full-Stack Development:** Python, JavaScript, React, Node.js, Express.js, Django, Tailwind CSS, Bootstrap, MongoDB, MySQL
+## 💻 Full-Stack Development
+- Python, JavaScript, React, Node.js, Express.js, Django, Tailwind CSS, Bootstrap, MongoDB, MySQL
 
-- 🛠 **Networking & Security:** Firewalls, Intrusion Detection, Threat Analysis, Vulnerability Assessment
+## 🛠 Networking & Security
+- Firewalls, Intrusion Detection, Threat Analysis, Vulnerability Assessment
 
-- 📫 Reach me at **mohammedsulaiman678@gmail.com**
+## 📫 Reach me at
+- **mohammedsulaiman678@gmail.com**
 
-- ⚡ Fun fact **I hack ethically and build securely!**
+## ⚡ Fun fact
+- **I hack ethically and build securely!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
