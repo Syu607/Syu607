@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/61232626" alt="logo" width="200" height="200">
   <h1>Hi 👋, I'm Mohammed Sulaiman I</h1>
   <h3>Cloud Security Analyst | Penetration Tester | Full-Stack Developer</h3>
 </div>
