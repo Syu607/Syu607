@@ -167,4 +167,3 @@
 ### 💡 "Building intelligent systems for the future."
 
 </div>
-```
